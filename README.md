@@ -87,8 +87,12 @@ To create an **intuitive, modern, and immersive user interface** for a VR travel
 
 
 
-### **💡 Design Concept**
+### ** Design Concept**
 
 The app uses a **calm, minimalist interface** with soft colors and smooth edges to complement the immersive VR experience. The layout prioritizes **user focus**, with large touch-friendly buttons and clear iconography.
+
+## **Output**
+<img width="1536" height="1024" alt="Image" src="https://github.com/user-attachments/assets/bb69d64d-bc0d-4a8c-8c93-408a0273524c" />
+
 
 
